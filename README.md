@@ -1,10 +1,16 @@
-- Olá pessoas, me chamo ana carolliny
-- tenho 25 anos, sou de Belém do Pará 
-- Estou entrando para os estudos de programação
-- Se você for novato também, gostaria de bater um papo
-- VLW!
+# **Seja Bem vindo(a) ao meu repositório**
 
-<!---
-anacarolliny/anacarolliny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Estou disposta a aprender novas tecnologias como :*
+
+- Python
+- Js
+- Git
+- GitHub
+- Java
+
+  [Esse é meu Linkedin](https://www.linkedin.com/in/ana-carolliny-santos-sacramento-382a98124/)
+
+![](https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jDknYN0aCPtudyMf63Csj0WcqbLRuyEIHKcG7ADvf27)
+
+  
+*Disponível para projetos*
