@@ -71,4 +71,11 @@
 ![](https://media3.giphy.com/media/H3ZUIgnoHykSVP8ZBK/200.gif?cid=95b2794482c5a7d8bd9494d4dddde8193cdef1c17fd84427&rid=200.gif&ct=s)
 ![](https://cdn2.scratch.mit.edu/get_image/gallery/2957184_170x100.png)
   
+  
+  <div> 
+  
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
