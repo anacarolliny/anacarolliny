@@ -13,7 +13,7 @@
 - 🔭 Atualmente trabalho com Desenvolvimento Back-End NodeJs at [Compass.Uol](https://compass.uol/)
 
 
-- 💻 Estudante de Desenvolvimento | **Aluna de Back-End na [ {reprograma}](https://reprograma.com.br/) , [ Gama Academy/LuizaCode ](https://corp.gama.academy/luiza-code/inscricao)| Front-End na [ VainaWeb](https://www.vainaweb.com.br/), [ PretaLab ](https://www.pretalab.com/)| Pós-Graduanda em Análise e Desenvolvimento de Programas**
+- 💻 Pessoa que busca constantmente por inovação e tecnologia | **Aluna Formada de Back-End na [ {reprograma}](https://reprograma.com.br/) , [ Gama Academy/LuizaCode ](https://corp.gama.academy/luiza-code/inscricao)| Front-End na [ VainaWeb](https://www.vainaweb.com.br/), [ PretaLab ](https://www.pretalab.com/)| Pós-Graduanda em Análise e Desenvolvimento de Programas**
 
 - Algumas das iniciativas que mais admiro são: 
 
@@ -24,9 +24,13 @@
 
   
 
-### 🚀 2021 Expectations:
+### 🚀 2021 Expectations✅:
 
 - 📂  Expandir meu portfólio  	🤝  Contribuir para projetos 	 
+  
+  ### 🚀 2022 Expectations:
+
+- 📂  Consolidar conhecimentos técnicos  	🤝  Desenvolver habilidades e soft skills 	 
 
 
 
