@@ -10,7 +10,7 @@
 
 ### About me
 
-- 🔭 Atualmente trabalho com Desenvolvimento Back-End NodeJs at [Compass.Uol](https://compass.uol/)
+- 🔭 Atualmente trabalho com Desenvolvimento Back-End NodeJs 
 
 
 - 💻 Pessoa que busca constantemente por inovação e tecnologia | 🎯 Bootcamps: [{reprograma}](https://reprograma.com.br/), [ Gama Academy/LuizaCode ](https://corp.gama.academy/luiza-code/inscricao)| [VainaWeb](https://www.vainaweb.com.br/), [ PretaLab ](https://www.pretalab.com/)|
@@ -28,9 +28,18 @@
 
 - 📂  Expandir meu portfólio  	🤝  Contribuir para projetos 	 
   
-  ### 🚀 2022 Expectations:
+### 🚀 2022 Expectations✅:
 
-- 📂  Consolidar conhecimentos técnicos  	🤝  Desenvolver habilidades e soft skills 	 
+- 📂  Consolidar conhecimentos técnicos  	🤝  Desenvolver habilidades e soft skills
+
+### 🚀 2023 Expectations✅:
+
+- 📂  Criar experiencias sólidas com o conhecimento adquirido e me desenvolver como Desenvolvedora NodeJs
+
+### 🚀 2024 Expectations:
+
+- 📂  Expandir conhecimentos para além do back-end, me desenvolver em outras linguagens e me tornar FullStack
+
 
 
 
